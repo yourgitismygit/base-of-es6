@@ -1,2 +1,3 @@
-# base-of-es6
-the base of es6
+let 块级作用域，定义一个变量。
+const 块级作用域，定义一个常量。
+二者均不可重复定义。
